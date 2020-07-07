@@ -1,4 +1,4 @@
 # fun-with-scene-viewer
-I love web components! This code renders an AR coin via your browser
+We used this custom AR art for a D&D campaign Fall 2019
 
-## [See for yourself](asa55.github.io/fun-with-scene-viewer)
+## [See the magic medallion](asa55.github.io/fun-with-scene-viewer)
